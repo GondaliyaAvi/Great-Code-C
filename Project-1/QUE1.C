@@ -7,7 +7,7 @@ main()
 	float F;
 	clrscr();
 
-	printf("\n \tEnter The Temprature in Celsius : ",C);
+	printf("\n \tEnter The Temprature in Celsius : ");
 	scanf("%d",&C);
 
 	F = (C * 1.8) + 32;
